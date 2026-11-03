@@ -60,9 +60,3 @@ Book-and-Movie-Website/
 3. Select **Movies** in the navigation bar to open `m1.html`.
 
 No server or package installation is required for the main pages. An internet connection may be needed to load the externally hosted icons, slider library, and some remote images.
-
-## Project Notes
-
-This repository preserves the original student project and its original book/movie presentation. Some external links may be outdated or point to websites that do not have permission to distribute the associated books; they are not endorsed as legal download sources. Review or replace those links before deploying the site publicly. Book covers, movie posters, and other third-party images may also have reuse restrictions.
-
-**Collaboration:** The original website footer credits **Julia, Majd, and Hussein** for the design. Credit and publication permissions should be confirmed with the original contributors.
